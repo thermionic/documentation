@@ -9,7 +9,7 @@ create separate Nextcloud user accounts for them. You will manage their Nextclou
 group memberships, quotas, and sharing permissions just like any other Nextcloud
 user.
 
-.. note:: The PHP LDAP module is required; this is supplied by ``php-ldap`` on
+.. note:: The PHP LDAP module is required if installed manually; this is supplied by ``php-ldap`` on
    most distributions.
 
 The LDAP application supports:
